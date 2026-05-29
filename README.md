@@ -6,14 +6,6 @@ CSE Cybersecurity student exploring Web Development & AI
 
 ---
 
-<h1 align="center">Hi 👋, I'm Dhruvi</h1>
-
-<p align="center">
-CSE Cybersecurity student exploring Web Development & AI
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
