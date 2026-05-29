@@ -8,19 +8,19 @@ CSE Cybersecurity student exploring Web Development & AI
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages** 
 Python • JavaScript • C • C++ • HTML • CSS
 
-**Frontend**
+**Frontend** 
 React.js • Responsive Design • UI/UX
 
-**Backend**
+**Backend** 
 Node.js • Express.js
 
-**AI & Data**
+**AI & Data** 
 Machine Learning • CNNs • Data Analysis
 
-**Tools**
+**Tools** 
 Git • GitHub • VS Code
 
 ---
