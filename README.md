@@ -34,13 +34,20 @@ Git • GitHub • VS Code
 ## 💻 Projects
 
 🔍 **Lost & Found Web App**
+
 Website for reporting and finding lost items.
 
 📊 **Sorting Visualizer**
+
 Visualizes sorting algorithms with animations.
 
 🤖 **Digit Recognition CNN**
+
 AI model that recognizes handwritten digits.
+
+🛠️ **FixIt** 
+
+Service platform connecting users with repair and maintenance solutions.
 
 ---
 
