@@ -33,6 +33,10 @@ Git • GitHub • VS Code
 
 ## 💻 Projects
 
+🎬 **Multimodal AI Video Search Engine**
+
+A Python application using local media workflows (FFmpeg) and cloud AI (`gemini-2.5-flash`) to extract video audio, map speech to structured JSON time-stamps, and instantly play video files at precise searched query positions.
+
 🔍 **Lost & Found Web App**
 
 Website for reporting and finding lost items.
